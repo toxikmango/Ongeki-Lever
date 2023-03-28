@@ -22,7 +22,7 @@ Printed with 3 perimeters, top, and bottom layers with 15% infill.
 
 I didn't personally do this on mine, but you could put dielectric grease or something similar between the "tension chuck" and the "top/bottom clamp's" mating surfaces.
 Also, you may want to sand the "tension chuck" and possibly the mating faces of the clamps. Again, I didn't do this for mine. 
-You can also add some sort of lubricant on the gear teeth. I used GPL 105 lubricant (oil based lubricant) as I have it on  hand from lubing keyboard switches. But I think something light would be better than a thick grease based lubricant, but feel free to try what you want.  
+You can also add some sort of lubricant on the gear teeth.
 
 If parts don't press fit in suuuuper snug, you could use some glue. Assembly should need no adhesives. Maybe a few drops of CA glue holding the top clamp to the body, but that's really it.
 
